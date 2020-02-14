@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openDialog() {
-
+        Fragment1 exampleDialog = new Fragment1();
+        exampleDialog.show(getSupportFragmentManager(), "example dialog");
     }
 }
