@@ -14,12 +14,12 @@
         />
     <item
         android:id="@+id/item3"
-        android:title="itme 3"
+        android:title="item 3"
         app:showAsAction="never">
         <menu>
             <item
                 android:id="@+id/subitem1"
-                android:title="sub itme 1"
+                android:title="sub item 1"
                 />
             <item
                 android:id="@+id/subitem2"
